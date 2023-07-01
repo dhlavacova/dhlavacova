@@ -10,7 +10,7 @@
 
 ### Languages and Tools 🛠 
 
-- 🔭 I'm currently learning ang working with: JavaScript, ReactJS, PHP, CSS, HTML.
+- 🔭 I'm currently learning and working with: JavaScript, ReactJS, PHP, CSS, HTML.
 
 ### Connect with me 📬
 
