@@ -2,15 +2,15 @@
 
 ## Junior Software Developer | Tutor | Open for Internship Opportunities 🚀
 
-- 👩‍💻 I'm a Junior Software Developer, currently tutoring at Digital Career Institute GmbH. 
+- 👩‍💻 I'm a Junior Software Developer. 
 - 🎓 I hold a Bachelor's degree in Finance from the Mendel University in Brno.
-- 🌱 I'm honing my skills in JavaScript, PHP, and ReactJS, always eager to learn more!
+- 🌱 I'm honing my skills in JavaScript, TypeScript,NextJS, NestJS, and ReactJS, always eager to learn more!
 - 🥅 2023 Goals: Secure an internship to expand my real-world experience and contribute to meaningful projects.
 - ⚡ Fun fact: In my spare time, I find solace in gardening, cycling, and reading books.
 
 ### Languages and Tools 🛠 
 
-- 🔭 I'm currently learning and working with: JavaScript, ReactJS, PHP, CSS, HTML.
+- 🔭 I'm currently learning and working with: JavaScript, ReactJS, NextJS, NestJs, CSS, HTML.
 
 ### Connect with me 📬
 
@@ -20,4 +20,4 @@
 
 ### Open for Opportunities 🚀
 
-I am actively looking for an internship opportunity where I can utilize and further enhance my skills in a professional environment. I'm excited about roles involving JavaScript, PHP, and ReactJS, but I'm also open to exploring new tech! If you have any roles available, feel free to contact me. Let's build amazing things together!
+I am actively looking for a work opportunity where I can utilize and further enhance my skills in a professional environment. I'm excited about roles involving JavaScript, TypeScript, and ReactJS, NextJS and NestJS but I'm also open to exploring new tech! If you have any roles available, feel free to contact me. Let's build amazing things together!
