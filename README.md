@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dana Hlavacova!
 
-## Junior Software Developer | Tutor | Open for Internship Opportunities 🚀
+## Junior Software Developer | Tutor | Open for job Opportunities 🚀
 
 - 👩‍💻 I'm a Junior Software Developer. 
 - 🎓 I hold a Bachelor's degree in Finance from the Mendel University in Brno.
@@ -20,4 +20,4 @@
 
 ### Open for Opportunities 🚀
 
-I am actively looking for a work opportunity where I can utilize and further enhance my skills in a professional environment. I'm excited about roles involving JavaScript, TypeScript, and ReactJS, NextJS and NestJS but I'm also open to exploring new tech! If you have any roles available, feel free to contact me. Let's build amazing things together!
+I am actively looking for a job opportunity where I can utilize and further enhance my skills in a professional environment. I'm excited about roles involving JavaScript, TypeScript, and ReactJS, NextJS and NestJS but I'm also open to exploring new tech! If you have any roles available, feel free to contact me. Let's build amazing things together!
